@@ -126,3 +126,10 @@ img {
   text-align: center;
   color: gold;
 }
+
+.guide {
+  background-image: linear-gradient(120deg, #f4dd8e 0%, rgb(155, 5, 5) 100%);
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
